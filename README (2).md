@@ -44,24 +44,28 @@ This project leverages **Python** to analyze and visualize Retail Sales data . I
 
 ## 📈 Snapshots
 
-![![alt text](image.png)]
-![Screenshot 2025-04-07 153517](https://github.com/user-attachments/assets/dddbd165-f414-4d3b-b4ad-4d9ac7e33d00)
-<img src="C:\Users\Dell\Desktop.png" width="400"/>
+![![alt text](![image](https://github.com/user-attachments/assets/cb88c154-1a68-4529-8d75-c73402d9f6ae)
+
+
 
 ---
 
-## 🔮 Future Enhancements
+ ## Insights & Recommendations
+- Prioritize inventory and marketing on high-performing product categories.
+- Target high-value customer segments with personalized campaigns.
+- Improve shipping logistics to enhance customer satisfaction.
+- Plan promotions strategically during slower sales months.
+- Address products with high return rates to reduce losses.
+- Optimize discounting strategies balancing sales volume and profit.
 
-- Live data integration from dealer portals
-- Predictive modeling for price trends
-- Expansion to electric bikes and scooters
-- Integration with online listing platforms
+
+## How to Run
+1. Ensure Python 3.x and Jupyter Notebook are installed.
+2. Place the `vrinda_store_cleaned.csv` dataset in your working directory.
+3. Open `Retail_Sales_Analysis.ipynb` in Jupyter Notebook.
+4. Run cells sequentially to reproduce analysis and visuals.
+
+## Contact
+For questions or collaboration, reach out at [shubhampremroy@gmail.com].
 
 
-## 📚 Learning & Reflection
-
-This project strengthened practical knowledge in:
-- Data modeling and transformation in Power BI  
-- Creating custom DAX measures for dynamic insights  
-- Building intuitive dashboards with drill-downs and slicers  
-- Applying business intelligence to real-world automotive data
