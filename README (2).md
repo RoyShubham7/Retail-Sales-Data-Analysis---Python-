@@ -44,7 +44,10 @@ This project leverages **Python** to analyze and visualize Retail Sales data . I
 
 ## 📈 Snapshots
 
-![![alt text](![image](https://github.com/user-attachments/assets/cb88c154-1a68-4529-8d75-c73402d9f6ae)
+(![image](https://github.com/user-attachments/assets/cb88c154-1a68-4529-8d75-c73402d9f6ae)
+![s](https://github.com/user-attachments/assets/667f47ca-9d5c-4c17-b3a3-ce25902fb99c)
+![d](https://github.com/user-attachments/assets/ce4c88eb-4f3c-48e5-8b31-2d56d8b090ca)
+
 
 
 
